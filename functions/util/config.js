@@ -1,5 +1,5 @@
 module.exports = {
-    apiKey: "AIzaSyCSwLAGqvK5fyNldWW7ULLmYh1mZtSbN2I",
+    apiKey: "",
     authDomain: "socialapp-b0f6c.firebaseapp.com",
     databaseURL: "https://socialapp-b0f6c.firebaseio.com",
     projectId: "socialapp-b0f6c",
